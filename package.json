@@ -9,7 +9,7 @@
     "@fullcalendar/daygrid": "^4.3.0",
     "@fullcalendar/list": "^4.3.0",
     "@fullcalendar/timegrid": "^4.3.0",
-    "lodash": "^4.17.15"
+    "lodash": "^4.17.21"
   },
   "devDependencies": {
     "css-loader": "^3.3.2",
